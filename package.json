@@ -1,0 +1,27 @@
+{
+    "name": "corona-soli-ab.org",
+    "version": "1.0.0",
+    "description": "Main website",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "dependencies": {
+        "vuepress": "^1.3.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Corona-Soli-Aschaffenburg/corona-soli-ab.org.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Corona-Soli-Aschaffenburg/corona-soli-ab.org/issues"
+    },
+    "homepage": "https://github.com/Corona-Soli-Aschaffenburg/corona-soli-ab.org#readme"
+}
