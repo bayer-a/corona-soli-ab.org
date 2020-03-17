@@ -2,7 +2,7 @@
 
 Liebe Nachbarschaft,
 
-eine Situation wie die aktuelle rund um das **Coronavirus SARS-CoV-2** haben wir noch nicht erlebt. Wir möchten wir uns in Aschaffenburg als Nachbarschaft gegenseitig helfen, damit niemand alleine ist. Wir unterstützen uns gegenseitig bei Einkäufen/Erledigungen, Kinderbetreuung, Austausch/Ausleihen von Alltagsgegenständen, usw.
+eine Situation wie die aktuelle rund um das **Coronavirus SARS-CoV-2** haben wir noch nicht erlebt. Wir möchten uns in Aschaffenburg als Nachbarschaft gegenseitig helfen, damit niemand alleine ist. Wir unterstützen uns gegenseitig bei Einkäufen/Erledigungen, Kinderbetreuung, Austausch/Ausleihen von Alltagsgegenständen, usw.
 
 **Denkt auch bitte an unsere (älteren) Nachbar*innen, die kein Smartphone besitzen.**  
 **Wir halten zusammen und stehen die nächsten Wochen gemeinsam durch.**
