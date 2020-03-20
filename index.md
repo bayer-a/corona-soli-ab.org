@@ -2,23 +2,29 @@
 
 Liebe Nachbarschaft,
 
-eine Situation wie die aktuelle rund um das **Coronavirus SARS-CoV-2** haben wir noch nicht erlebt. Wir möchten wir uns in Aschaffenburg als Nachbarschaft gegenseitig helfen, damit niemand alleine ist. Wir unterstützen uns gegenseitig bei Einkäufen/Erledigungen, Kinderbetreuung, Austausch/Ausleihen von Alltagsgegenständen, usw.
+eine Situation wie die aktuelle rund um das **Coronavirus SARS-CoV-2** haben wir noch nicht erlebt. Wir möchten uns in Aschaffenburg als Nachbarschaft gegenseitig helfen, damit niemand alleine ist. Wir unterstützen uns gegenseitig bei Einkäufen/Erledigungen, Kinderbetreuung, Austausch/Ausleihen von Alltagsgegenständen, usw.
 
 **Denkt auch bitte an unsere (älteren) Nachbar*innen, die kein Smartphone besitzen.**  
 **Wir halten zusammen und stehen die nächsten Wochen gemeinsam durch.**
 
 - Idee 1: **Haus- und Nachbarschafts-Aushänge** zum Ausdrucken als Hilfe zur Selbsthilfe
-- Idee 2: Vernetzung via einer **Whatsapp-Gruppe** für Hilfsgesuche und Angebote in Aschaffenburg
-- Idee 3: Bündelung von **Informationen, Links und relevanten Telefonnummern**
+- Idee 2: Vernetzung via einer **Whatsapp-Gruppe** für Hilfsgesuche in Aschaffenburg
+- Idee 3: Sammlung der Hilfsangebote über [**wirhelfen.eu](https://wirhelfen.eu/)
+- Idee 4: Bündelung von **Informationen, Links und relevanten Telefonnummern**
 
 
 So kann jede*r Hilfe anbieten und erhalten.
 
 Bei ernstem Verdacht auf **Coronavirus SARS-CoV-2** bitte die **116117** wählen und bei schweren medizinischen Notfällen die **112 (Nur im Notfall!)**.
 
-## Per WhatsApp Hilfe anbieten & erhalten ##
+## Per WhatsApp Hilfe erhalten ##
 
 ➡️➡️ Hier könnt ihr der **[WhatsApp-Gruppe beitreten](https://chat.whatsapp.com/J9M8mTBU8as5CiJcWsLdct)**. ⬅️⬅️
+
+## Auf wirhelfen.eu Hilfe anbieten ##
+
+Auf einer übersichtlichen [Karte auf wirhelfen.eu](https://wirhelfen.eu/suche) kann man sehen, wer in der Nähe Hilfe anbietet. Tragt euch dort ein, wenn ihr bereit seid, für andere Einkaufen zu gehen, Kinder zu betreuen oder Dinge zu teilen.
+Achtung: Es ist keine Anmeldung oder Registrierung notwendig, dafür könnt ihr aber selbst die eingetragenen Daten nicht ändern. Schreibt also nur euren Vornamen ins Formular, die Straße ohne Hausnummer und eine Mailadresse / Telefonnummer, die im Internet veröffentlicht werden darf.
 
 ## Ausdrucken & Hilfe anbieten ##
 
@@ -33,7 +39,7 @@ Diese Dokumente wurden erstellt von [Corona Soli FFM](https://www.corona-soli-ff
 
 ## Linksammlung ##
 
-- Der bayerische Rundfunk informiert:  [Diese Regeln gelten ab sofort in Bayern](https://www.br.de/nachrichten/bayern/katastrophenfall-in-bayern-diese-regeln-gelten-ab-sofort,RtNxMZq)
+- Der bayerische Rundfunk informiert:  [Diese Regeln gelten ab 21.03.2020 in Bayern](https://www.br.de/nachrichten/bayern/ausgangsbeschraenkung-was-in-bayern-noch-erlaubt-ist,RtmeCyH)
 - Fragen und Antworten zum Coronavirus: [Wichtige Infos auf Infektionsschutz.de](https://www.infektionsschutz.de/coronavirus-sars-cov-2.html)
 - Haltet Abstand von älteren Menschen und klärt sie über ihre Gefährdung auf: [Das Robert Koch Institut zu Risikogruppen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html)
 - Gestaltet eure eigenen Aushänge: [Gegen-den-Virus](https://gegen-den-virus.de/).de
